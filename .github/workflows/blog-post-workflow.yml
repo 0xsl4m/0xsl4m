@@ -1,0 +1,20 @@
+name: Latest blog post workflow
+on:
+  schedule:
+    # Runs every day at 05:30 UTC
+    - cron: '30 5 * * *'
+  workflow_dispatch:
+  push:
+    branches:
+      - main
+
+jobs:
+  update-readme-with-blog:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Pull in blog posts
+        uses: gautamkrishnar/blog-post-workflow@v2
+        with:
+          feed_list: "https://0xsl4m.dev/index.xml"
+          max_post_count: 5
