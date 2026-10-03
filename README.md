@@ -42,8 +42,6 @@ I break web applications for a living — offensive security, bug bounty hunting
 
 ## Latest Blog Posts
 
-_Posts are written in Arabic._
-
 <!-- BLOG-POST-LIST:START -->
 - [eWPTXv3](https://0xsl4m.dev/certifications/ewptxv3/)
 - [ثغرة CSRF](https://0xsl4m.dev/vulnerabilities/csrf/)
