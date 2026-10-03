@@ -11,10 +11,12 @@ on:
 jobs:
   update-readme-with-blog:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write
     steps:
       - uses: actions/checkout@v4
       - name: Pull in blog posts
-        uses: gautamkrishnar/blog-post-workflow@v2
+        uses: gautamkrishnar/blog-post-workflow@master
         with:
           feed_list: "https://0xsl4m.dev/index.xml"
           max_post_count: 5
