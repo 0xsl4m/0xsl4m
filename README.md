@@ -1,5 +1,6 @@
 <h1 align="center">0xsl4m</h1>
 <p align="center">Penetration Tester · Bug Bounty Hunter</p>
+<p align="center"><b>Open to opportunities</b> in penetration testing and application security.</p>
 
 <p align="center">
   <a href="https://0xsl4m.dev">Blog</a> ·
@@ -26,8 +27,18 @@ I break web applications for a living — offensive security, bug bounty hunting
 
 | Project | Description |
 |---|---|
-| [Web-Security-Vulnerabilities](https://github.com/0xsl4m/Web-Security-Vulnerabilities) | Research notes on web vuln classes — XSS, CORS, CSRF — with exploitation and bypass techniques |
+| [DroidSiege](https://github.com/0xsl4m/DroidSiege) | Intentionally vulnerable Android app (Kotlin + Jetpack Compose) with 150 graded challenges aligned to the OWASP Mobile Top 10 — CTF scoring, a Secure/Insecure toggle, a companion attacker app, and write-ups with Frida/objection/Burp tooling |
+| [NoSQLi Hunter](https://github.com/0xsl4m/NOSQLi-Burp-extension) | Burp Suite extension (Java) for NoSQL injection — error, blind-boolean, time-based and operator injection, with a false-positive-reduction engine that confirms findings before reporting |
 | [0xsl4m.dev](https://0xsl4m.dev) | My blog: vulnerability deep-dives, certification reviews, and networking/web fundamentals |
+
+## Skills
+
+| Area | Tools & topics |
+|---|---|
+| Web application security | Burp Suite, OWASP Top 10, XSS, CORS, CSRF, NoSQL injection, access control |
+| Mobile security | Android, Frida, objection, OWASP MASVS/MASTG |
+| Tooling & automation | Java (Burp extensions), Python, Bash, Docker, GitHub Actions |
+| Recon | Subdomain/asset discovery, scope-driven recon pipelines |
 
 ## Latest Blog Posts
 
