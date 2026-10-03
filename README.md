@@ -32,6 +32,11 @@ I break web applications for a living — offensive security, bug bounty hunting
 ## Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [eWPTXv3](https://0xsl4m.dev/certifications/ewptxv3/)
+- [ثغرة CSRF](https://0xsl4m.dev/vulnerabilities/csrf/)
+- [الـ Firewall](https://0xsl4m.dev/basics/firewall/)
+- [الـ Nat](https://0xsl4m.dev/basics/nat/)
+- [الــ Gateway](https://0xsl4m.dev/basics/gateway/)
 <!-- BLOG-POST-LIST:END -->
 
 ## Connect
