@@ -20,7 +20,7 @@ I break web applications for a living — offensive security, bug bounty hunting
 ## Currently
 
 - Studying for **eMAPT** (mobile application penetration testing)
-- Building an AI-assisted recon/hunting agent for bug bounty work
+- Building a multi-agent AI framework for recon and bug bounty hunting
 - Hunting on public bug bounty programs
 
 ## Featured Projects
@@ -39,6 +39,7 @@ I break web applications for a living — offensive security, bug bounty hunting
 | Mobile security | Android, Frida, objection, OWASP MASVS/MASTG |
 | Tooling & automation | Java (Burp extensions), Python, Bash, Docker, GitHub Actions |
 | Recon | Subdomain/asset discovery, scope-driven recon pipelines |
+| AI-assisted security automation | Designing multi-agent workflows for recon and hunting — specialized agents with their own skills, commands, and tool integrations |
 
 ## Latest Blog Posts
 
