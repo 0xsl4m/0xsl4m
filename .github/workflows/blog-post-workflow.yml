@@ -20,3 +20,6 @@ jobs:
         with:
           feed_list: "https://0xsl4m.dev/index.xml"
           max_post_count: 5
+          committer_username: 0xsl4m
+          committer_email: 99960278+0xsl4m@users.noreply.github.com
+          commit_message: "Update latest blog posts"
