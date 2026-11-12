@@ -44,11 +44,11 @@ I break web applications for a living — offensive security, bug bounty hunting
 ## Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [الـ Clicker App](https://0xsl4m.dev/android/phase-1/clicker-app/)
 - [الفرق بين activity_main.xml و MainActivity.java — وإزاي بيشتغلوا مع بعض](https://0xsl4m.dev/android/phase-1/activity-xml-and-java/)
 - [الـ Gradle — إزاي الكود بتاعك بيتحول لـ APK](https://0xsl4m.dev/android/phase-1/gradle/)
 - [الـ Android SDK — إيه هو وبيتكون من إيه](https://0xsl4m.dev/android/phase-1/android-sdk/)
-- [أول تطبيق أندرويد — Your First Android App](https://0xsl4m.dev/android/phase-1/first-android-app/)
-- [eWPTXv3](https://0xsl4m.dev/certifications/ewptxv3/)
+- [إعداد مشروع أندرويد — Android Studio Project Setup](https://0xsl4m.dev/android/phase-1/android-studio-project-setup/)
 <!-- BLOG-POST-LIST:END -->
 
 ## Connect
